@@ -1,5 +1,4 @@
-# fonts
-Fonts for programming
+# Font for programming
 
 Fira Code's tweaked ligatures with Monaco font
 
