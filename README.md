@@ -5,4 +5,4 @@ Fira Code's tweaked ligatures with Monaco font
 
 Swift:
 
-<img src="./swift.png">
+<img src="./swift.PNG">
